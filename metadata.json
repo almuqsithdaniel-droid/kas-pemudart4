@@ -1,0 +1,8 @@
+{
+  "name": "Kas Pemuda RT 04",
+  "description": "Aplikasi pembukuan kas pemuda RT 04 simpel untuk pencatatan kas masuk, kas keluar, daftar anggota, kekurangan kas, pencarian nama, dan struk tanda terima.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
